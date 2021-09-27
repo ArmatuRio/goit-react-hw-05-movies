@@ -1,0 +1,24 @@
+.searchForm {
+  margin: 20px;
+  text-align: center;
+}
+
+.inputForm {
+  margin-right: 16px;
+  width: 250px;
+  height: 30px;
+}
+
+.buttonForm {
+  width: 80px;
+  height: 30px;
+  border: none;
+  cursor: pointer;
+  background-color: rgb(0, 60, 226);
+  border-radius: 5px;
+  color: rgb(10, 165, 170);
+}
+
+.buttonForm:hover {
+  transform: scale(1.1);
+}

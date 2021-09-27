@@ -1,0 +1,32 @@
+.movieDetailsPage {
+  padding: 20px;
+}
+
+.conteiner {
+  display: flex;
+  margin-top: 12px;
+}
+
+.movieDetails {
+  width: 600px;
+  margin-left: 30px;
+}
+
+.imgMovie {
+  width: 250px;
+  height: auto;
+}
+
+.button {
+  width: 80px;
+  height: 30px;
+  border: none;
+  background-color: blue;
+  border-radius: 5px;
+  color: white;
+}
+
+.button:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+}
